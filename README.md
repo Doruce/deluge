@@ -1,1 +1,1 @@
-deluge
+My deluge configuration.
